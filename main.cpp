@@ -12,7 +12,7 @@ int main() {
     b[i] = egytol * 2;
     egytol++;
   }
-  
+  // for ciklus javitás
   for (int i = 0; i < N_ELEMENTS; i++) {
     std::cout << "Ertek:\t" << b[i] << "\n";
   }
